@@ -1,0 +1,30 @@
+/home/enrico/VSCode Projects/Docker tests/bin/Debug/net6.0/Docker tests
+/home/enrico/VSCode Projects/Docker tests/bin/Debug/net6.0/Docker tests.deps.json
+/home/enrico/VSCode Projects/Docker tests/bin/Debug/net6.0/Docker tests.runtimeconfig.json
+/home/enrico/VSCode Projects/Docker tests/bin/Debug/net6.0/Docker tests.dll
+/home/enrico/VSCode Projects/Docker tests/bin/Debug/net6.0/Docker tests.pdb
+/home/enrico/VSCode Projects/Docker tests/obj/Debug/net6.0/Docker tests.csproj.AssemblyReference.cache
+/home/enrico/VSCode Projects/Docker tests/obj/Debug/net6.0/Docker tests.GeneratedMSBuildEditorConfig.editorconfig
+/home/enrico/VSCode Projects/Docker tests/obj/Debug/net6.0/Docker tests.AssemblyInfoInputs.cache
+/home/enrico/VSCode Projects/Docker tests/obj/Debug/net6.0/Docker tests.AssemblyInfo.cs
+/home/enrico/VSCode Projects/Docker tests/obj/Debug/net6.0/Docker tests.csproj.CoreCompileInputs.cache
+/home/enrico/VSCode Projects/Docker tests/obj/Debug/net6.0/Docker tests.dll
+/home/enrico/VSCode Projects/Docker tests/obj/Debug/net6.0/refint/Docker tests.dll
+/home/enrico/VSCode Projects/Docker tests/obj/Debug/net6.0/Docker tests.pdb
+/home/enrico/VSCode Projects/Docker tests/obj/Debug/net6.0/Docker tests.genruntimeconfig.cache
+/home/enrico/VSCode Projects/Docker tests/obj/Debug/net6.0/ref/Docker tests.dll
+/workspaces/Docker tests/bin/Debug/net6.0/Docker tests
+/workspaces/Docker tests/bin/Debug/net6.0/Docker tests.deps.json
+/workspaces/Docker tests/bin/Debug/net6.0/Docker tests.runtimeconfig.json
+/workspaces/Docker tests/bin/Debug/net6.0/Docker tests.dll
+/workspaces/Docker tests/bin/Debug/net6.0/Docker tests.pdb
+/workspaces/Docker tests/obj/Debug/net6.0/Docker tests.csproj.AssemblyReference.cache
+/workspaces/Docker tests/obj/Debug/net6.0/Docker tests.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Docker tests/obj/Debug/net6.0/Docker tests.AssemblyInfoInputs.cache
+/workspaces/Docker tests/obj/Debug/net6.0/Docker tests.AssemblyInfo.cs
+/workspaces/Docker tests/obj/Debug/net6.0/Docker tests.csproj.CoreCompileInputs.cache
+/workspaces/Docker tests/obj/Debug/net6.0/Docker tests.dll
+/workspaces/Docker tests/obj/Debug/net6.0/refint/Docker tests.dll
+/workspaces/Docker tests/obj/Debug/net6.0/Docker tests.pdb
+/workspaces/Docker tests/obj/Debug/net6.0/Docker tests.genruntimeconfig.cache
+/workspaces/Docker tests/obj/Debug/net6.0/ref/Docker tests.dll
